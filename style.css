@@ -1,0 +1,42 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.style2{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 200px;    
+    left: 100px;
+    background-size: cover;
+}
+
+.style2:hover{
+    background-color: aqua;
+    transform: scaleX(1.2)
+}
+
+
+.style3{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 220px;    
+    left: 550px;
+}
+
+.style3:hover{
+    background-color: aqua;
+    transform: scaleX(1.2);
+}
+
+
+
